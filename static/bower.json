@@ -1,0 +1,22 @@
+{
+  "name": "Django-Static",
+  "homepage": "https://github.com/MaheshReddy/vantakalu",
+  "authors": [
+    "Mahesh Elireddy <hkrinme87@gmail.com>"
+  ],
+  "description": "Static Folder for my Djanog projects",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "bootstrap.css#^2.3.2",
+    "gentelella": "^1.1.0"
+  }
+}
